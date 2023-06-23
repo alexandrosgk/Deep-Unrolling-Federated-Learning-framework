@@ -8,7 +8,7 @@ The following Python libraries are required to run this project:
 - numpy
 - pytorch
 - sklearn
-- rosbags
+
 
 ## Data
 
